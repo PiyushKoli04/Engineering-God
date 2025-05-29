@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Engineering Assistant</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>⚙️ Engineering Assistant</h1>
+      <p>Your AI-powered real-time helper, built by <a href="https://ds.study.iitm.ac.in/student/24F2003353">Piyush Koli</a></p>
+    </header>
+    <div class="chat-box">
+      <div class="response-box">
+  
+          <p class="bot">{{ answer | safe }}</p>
+     
+          <p class="bot">Hi! Ask me anything related to engineering, tech, or your work!</p>
+
+      </div>
+
+      <form method="POST" class="input-box">
+        <input type="text" name="prompt" placeholder="Type your question here..." required />
+        <button type="submit">Ask 🚀</button>
+      </form>
+    </div>
+  </div>
+</body>
+</html>
