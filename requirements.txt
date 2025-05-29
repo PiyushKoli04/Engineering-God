@@ -1,6 +1,6 @@
 markdown
 flask
-googlesearch
+google
 groq
 json
 datetime
