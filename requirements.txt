@@ -1,8 +1,4 @@
 markdown
 flask
-google
 groq
-datetime
-os 
-dotenv
-sys
+python-dotenv
