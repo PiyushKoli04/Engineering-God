@@ -6,5 +6,13 @@
     {
         "role": "assistant",
         "content": "Hello! I'm here to help you with your questions. What's on your mind?"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're saying hello a few times! Is there something specific you'd like to chat about or ask? I'm here to help!"
     }
 ]
