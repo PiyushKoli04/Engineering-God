@@ -1,0 +1,9 @@
+markdown
+flask
+googlesearch
+groq
+json
+datetime
+os 
+dotenv
+sys
