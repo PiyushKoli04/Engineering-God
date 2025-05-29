@@ -2,7 +2,6 @@ markdown
 flask
 google
 groq
-json
 datetime
 os 
 dotenv
