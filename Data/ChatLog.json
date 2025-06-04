@@ -14,5 +14,13 @@
     {
         "role": "assistant",
         "content": "It seems like you're saying hello a few times! Is there something specific you'd like to chat about or ask? I'm here to help!"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "You're really enthusiastic about saying hello! If you're ready to move on, I'd be happy to help with any questions or topics you'd like to discuss. What's next?"
     }
 ]
