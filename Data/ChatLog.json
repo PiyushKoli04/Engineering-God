@@ -22,5 +22,13 @@
     {
         "role": "assistant",
         "content": "You're really enthusiastic about saying hello! If you're ready to move on, I'd be happy to help with any questions or topics you'd like to discuss. What's next?"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Okay, I think we've established that you know how to say hello! If you're ready to chat about something specific, I'm here to listen and help. Go ahead and ask a question or share a topic you'd like to discuss."
     }
 ]

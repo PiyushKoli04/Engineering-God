@@ -10,7 +10,7 @@ load_dotenv()
 
 Username = os.getenv("Username")
 Assistantname = os.getenv("Assistantname")
-GroqAPIKey = os.getenv("GroqAPIKey")
+GroqAPIKey = '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'
 
 client = Groq(api_key=GroqAPIKey)
 
